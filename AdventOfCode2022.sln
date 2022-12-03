@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode2022", "AdventOfCode2022\AdventOfCode2022.csproj", "{02588AA1-98EB-4073-A950-9A4B4E0FC5B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D01_CalorieCounting", "D01_CalorieCounting\D01_CalorieCounting.csproj", "{30644F2E-926C-4F28-9510-4E4B6E763A4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D02_RockPaperScissors", "D02_RockPaperScissors\D02_RockPaperScissors.csproj", "{6E1DE019-CBEA-4CF8-A025-3D298280954C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{02588AA1-98EB-4073-A950-9A4B4E0FC5B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02588AA1-98EB-4073-A950-9A4B4E0FC5B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02588AA1-98EB-4073-A950-9A4B4E0FC5B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30644F2E-926C-4F28-9510-4E4B6E763A4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30644F2E-926C-4F28-9510-4E4B6E763A4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30644F2E-926C-4F28-9510-4E4B6E763A4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30644F2E-926C-4F28-9510-4E4B6E763A4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E1DE019-CBEA-4CF8-A025-3D298280954C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E1DE019-CBEA-4CF8-A025-3D298280954C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E1DE019-CBEA-4CF8-A025-3D298280954C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E1DE019-CBEA-4CF8-A025-3D298280954C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
