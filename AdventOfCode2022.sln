@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D02_RockPaperScissors", "D0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D03_Rucksack", "D03_Rucksack\D03_Rucksack.csproj", "{EE5601EC-6908-423A-A637-485826A030E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D04_DampCleanup", "D04_DampCleanup\D04_DampCleanup.csproj", "{76E6BAB9-4CD4-451B-925C-F9E503D2C67B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -50,5 +52,9 @@ Global
 		{EE5601EC-6908-423A-A637-485826A030E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE5601EC-6908-423A-A637-485826A030E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE5601EC-6908-423A-A637-485826A030E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76E6BAB9-4CD4-451B-925C-F9E503D2C67B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76E6BAB9-4CD4-451B-925C-F9E503D2C67B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76E6BAB9-4CD4-451B-925C-F9E503D2C67B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76E6BAB9-4CD4-451B-925C-F9E503D2C67B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
