@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D04_DampCleanup", "D04_Damp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D05_Stack", "D05_Stack\D05_Stack.csproj", "{2BA91B4E-4572-4B6E-83FE-5A62AF9D16B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D06_FindMarker", "D06_FindMarker\D06_FindMarker.csproj", "{11C2EC36-3778-4114-BA2E-0D8BC4351D34}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -62,5 +64,9 @@ Global
 		{2BA91B4E-4572-4B6E-83FE-5A62AF9D16B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BA91B4E-4572-4B6E-83FE-5A62AF9D16B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2BA91B4E-4572-4B6E-83FE-5A62AF9D16B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11C2EC36-3778-4114-BA2E-0D8BC4351D34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11C2EC36-3778-4114-BA2E-0D8BC4351D34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11C2EC36-3778-4114-BA2E-0D8BC4351D34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11C2EC36-3778-4114-BA2E-0D8BC4351D34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
