@@ -16,6 +16,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D06_FindMarker", "D06_FindM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D07_FileSystem", "D07_FileSystem\D07_FileSystem.csproj", "{0C11E7D7-D816-4027-B513-1AB18E51ECDD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D08_Trees", "D08_Trees\D08_Trees.csproj", "{7D8EA0FF-49E3-4B6F-BBDB-4F1E16E09A40}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -74,5 +76,9 @@ Global
 		{0C11E7D7-D816-4027-B513-1AB18E51ECDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C11E7D7-D816-4027-B513-1AB18E51ECDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C11E7D7-D816-4027-B513-1AB18E51ECDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D8EA0FF-49E3-4B6F-BBDB-4F1E16E09A40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D8EA0FF-49E3-4B6F-BBDB-4F1E16E09A40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D8EA0FF-49E3-4B6F-BBDB-4F1E16E09A40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D8EA0FF-49E3-4B6F-BBDB-4F1E16E09A40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
