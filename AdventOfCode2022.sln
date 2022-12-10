@@ -18,6 +18,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D07_FileSystem", "D07_FileS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D08_Trees", "D08_Trees\D08_Trees.csproj", "{7D8EA0FF-49E3-4B6F-BBDB-4F1E16E09A40}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D09_RopeBridge", "D09_RopeBridge\D09_RopeBridge.csproj", "{768F0EAD-A964-4A93-830D-85DEEF9965EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D10_CathodeRayTube", "D10_CathodeRayTube\D10_CathodeRayTube.csproj", "{F57FAA7A-489A-4950-A4A2-E778C1CFAB0C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -80,5 +84,13 @@ Global
 		{7D8EA0FF-49E3-4B6F-BBDB-4F1E16E09A40}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D8EA0FF-49E3-4B6F-BBDB-4F1E16E09A40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D8EA0FF-49E3-4B6F-BBDB-4F1E16E09A40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{768F0EAD-A964-4A93-830D-85DEEF9965EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{768F0EAD-A964-4A93-830D-85DEEF9965EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{768F0EAD-A964-4A93-830D-85DEEF9965EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{768F0EAD-A964-4A93-830D-85DEEF9965EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F57FAA7A-489A-4950-A4A2-E778C1CFAB0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F57FAA7A-489A-4950-A4A2-E778C1CFAB0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F57FAA7A-489A-4950-A4A2-E778C1CFAB0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F57FAA7A-489A-4950-A4A2-E778C1CFAB0C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
