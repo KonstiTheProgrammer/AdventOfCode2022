@@ -168,8 +168,13 @@ public class Input
         FileName = fileName;
         Inputs = inputs;
     }
-
-
+    
+    public Input(List<string> inputs)
+    {
+        FileName = String.Empty;
+        Inputs = inputs;
+    }
+    
     private string GetOutputPath(string fileName)
     {
         var path = fileName.Replace(".in", "")
