@@ -30,6 +30,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D13_DummeListe", "D13_Dumme
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D14_Sand", "D14_Sand\D14_Sand.csproj", "{522015E9-66A0-415F-863F-DF2B4526E205}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D18_BoilingBolders", "D18_BoilingBolders\D18_BoilingBolders.csproj", "{A7F70337-010E-4877-9DF0-63844BC3000E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -116,5 +118,9 @@ Global
 		{522015E9-66A0-415F-863F-DF2B4526E205}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{522015E9-66A0-415F-863F-DF2B4526E205}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{522015E9-66A0-415F-863F-DF2B4526E205}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7F70337-010E-4877-9DF0-63844BC3000E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7F70337-010E-4877-9DF0-63844BC3000E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7F70337-010E-4877-9DF0-63844BC3000E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7F70337-010E-4877-9DF0-63844BC3000E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
